@@ -1,0 +1,12 @@
+main {
+  padding: 20px 20px 0 20px;
+}
+main h6 {
+  color: red;
+}
+main hr {
+  opacity: 1;
+  border: 1px dashed red;
+}
+
+/*# sourceMappingURL=my-answer.component.css.map */
